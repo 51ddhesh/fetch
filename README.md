@@ -25,7 +25,7 @@ uv pip install -r requirements.txt
 
 4. Set alias in `~/.bashrc`
 ```sh
-alias cfetch='<address of fetch_tests.sh>'
+alias cfetch="<address of fetch_tests.sh>"
 ```
 
 ## Usage
